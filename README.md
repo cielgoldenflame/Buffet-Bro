@@ -1,5 +1,7 @@
 # Buffet-Bro
 Windows PowerShell Text-Game
+##### A brief clip of the Title Screen:<br/>
+![A brief animation of the Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/TitleScreen.gif)
 
 I created this game to increase my proficiency in Windows PowerShell.<br/>
 This really helped me learn:
@@ -11,5 +13,4 @@ This really helped me learn:
 * String Manipulation
 * Progress Output
 
-##### A brief clip of the Title Screen:<br/>
-![A brief animation of the Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/TitleScreen.gif)
+## To Play
