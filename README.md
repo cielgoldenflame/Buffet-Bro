@@ -11,3 +11,6 @@ This really helped me learn:
 * String Manipulation
 * Progress Output
 
+![Title Screen](/pics/code.png)
+
+
