@@ -1,5 +1,5 @@
 # Buffet-Bro
-Windows PowerShell Text-Game
+A Windows PowerShell Text-Game
 ##### A brief clip of the Title Screen:<br/>
 ![A brief animation of the Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/TitleScreen.gif)
 
