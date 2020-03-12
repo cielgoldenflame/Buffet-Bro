@@ -11,6 +11,6 @@ This really helped me learn:
 * String Manipulation
 * Progress Output
 
-![Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/code.png)
+![A brief animation of the Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/TitleScreen.gif)
 
 
