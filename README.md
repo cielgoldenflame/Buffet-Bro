@@ -11,6 +11,6 @@ This really helped me learn:
 * String Manipulation
 * Progress Output
 
-![Title Screen](/pics/code.png)
+![Title Screen](https://github.com/cielgoldenflame/Buffet-Bro/blob/master/Pics/code.png)
 
 
