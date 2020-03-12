@@ -14,3 +14,10 @@ This really helped me learn:
 * Progress Output
 
 ## To Play
+Download "Buffet Bro.ps1" and right click > Run with PowerShell<br/>
+Answer the prompts with letters upper or lower case.
+
+* If it doesn't run you may have to change your Execution Policy
+  * `Get-ExecutionPolicy -List` Will show your current policies.
+  * `Set-ExecutionPolicy -ExecutionPolicy Unrestricted` Will allow you to run it.
+  * If it still doesn't work you may have to use the `-scope` parameter with the appropriate scope. 
